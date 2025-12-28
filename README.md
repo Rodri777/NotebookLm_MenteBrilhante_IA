@@ -1,5 +1,7 @@
 # 📘 AI Nexus: Mente Evolutiva (NotebookLM)
 
+acesse aqui: https://notebooklm.google.com/notebook/93411848-e864-4629-94d8-b398c5d60ef7
+
 <p align="center">
   <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1000&auto=format&fit=crop" alt="AI Nexus Banner" width="100%">
 </p>
@@ -52,3 +54,7 @@ Curadoria de documentos científicos e manifestos que compõem o "cérebro" da L
 
 ## ✅ CONSIDERAÇÕES FINAIS
 A confiabilidade do **AI Nexus** provém da exclusão de fontes genéricas. Ao focar apenas em mentes brilhantes e conhecimento técnico de ponta, o projeto garante que cada interação agregue valor real à carreira do usuário
+
+
+
+acesse aqui: https://notebooklm.google.com/notebook/93411848-e864-4629-94d8-b398c5d60ef7
